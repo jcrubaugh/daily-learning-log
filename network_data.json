@@ -1,0 +1,6 @@
+[
+  {"device": "switch-01", "type": "nexus", "status": "active", "uplink_gbps": 40},
+  {"device": "switch-02", "type": "catalyst", "status": "maintenance", "uplink_gbps": 10},
+  {"device": "switch-03", "type": "nexus", "status": "active", "uplink_gbps": 100},
+  {"device": "router-01", "type": "isr", "status": "active", "uplink_gbps": 1}
+]
