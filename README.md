@@ -15,3 +15,4 @@ tracking my coding preactices and skills transition
 | June 17, 2026 | API Data Extraction | Integrated the `requests` library to ingest live HTTP JSON data payloads, implementing SSL verification bypasses and handling remote network response exceptions. |
 | June 17, 2026 | JSON Data Flattening | Mastered multi-layered JSON parsing by chaining dictionary keys to extract heavily nested attributes from live API payloads. |
 | June 17, 2026 | File Output (ETL Load) | Constructed a complete end-to-end ETL pipeline by writing transformed live API data into an external structured text file using Python file I/O operations. |
+| June 17, 2026 | Starting tomorrow will start using bigger more complex data sets. the basics are fine, but lets start really testing my understanding/theory and applicaton of concepts. |
