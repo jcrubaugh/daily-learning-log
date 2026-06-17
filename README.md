@@ -16,3 +16,5 @@ tracking my coding preactices and skills transition
 | June 17, 2026 | JSON Data Flattening | Mastered multi-layered JSON parsing by chaining dictionary keys to extract heavily nested attributes from live API payloads. |
 | June 17, 2026 | File Output (ETL Load) | Constructed a complete end-to-end ETL pipeline by writing transformed live API data into an external structured text file using Python file I/O operations. |
 | June 17, 2026 | Starting tomorrow will start using bigger more complex data sets. the basics are fine, but lets start really testing my understanding/theory and applicaton of concepts. |
+|         ******************************************************************************* |
+| June 17, 2026 | Dataset Filtering & Serialization | Developed an optimized data-cleansing pipeline that parses real-world enterprise arrays, applies value-based filtering algorithms, and streams structured, serialized objects to a new target JSON file. |
