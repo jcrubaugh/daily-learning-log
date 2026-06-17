@@ -11,3 +11,4 @@ tracking my coding preactices and skills transition
 | June 17, 2026 | Python Data Aggregation | Mastered stateful tracking and metric aggregation by calculating total network capacity using conditional loops and variable accumulation. |
 | June 17, 2026 | Python Exception Handling | Implemented robust error-handling frameworks using `try/except` blocks to gracefully intercept `FileNotFoundError` states and prevent pipeline crashes. |
 | June 17, 2026 | Python Modularization | Refactored standalone execution scripts into modular, reusable Python functions (`def`) to establish clean code standards. |
+| June 17, 2026 | Python Parameterization | Upgraded modular functions to accept dynamic input arguments (`target_file`), making the ETL pipeline reusable across different data sources. |
