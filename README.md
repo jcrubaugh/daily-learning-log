@@ -20,3 +20,4 @@ tracking my coding preactices and skills transition
 | June 17, 2026 | Dataset Filtering & Serialization | Developed an optimized data-cleansing pipeline that parses real-world enterprise arrays, applies value-based filtering algorithms, and streams structured, serialized objects to a new target JSON file. |
  | June 18, 2026 | Algorithmic Sorting & Lambda Keys | Optimized pipeline performance by moving sorting operations out of iterative loops and utilizing Lambda evaluation functions for reverse-alphabetical data ordering. |
  | June 18, 2026 | Functional Architecture Refactoring | Modularized backend logic into an isolated, parameterized function framework, enabling multi-source generation from a single code deployment. |
+| June 18, 2026 | Defensive Coding & Fault Tolerance | Hardened data ingestion pipelines against runtime KeyErrors by implementing dict `.get()` methods with custom string fallback defaults to handle missing or corrupt fields. |
