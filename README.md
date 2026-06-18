@@ -18,3 +18,4 @@ tracking my coding preactices and skills transition
 | June 17, 2026 | Starting tomorrow will start using bigger more complex data sets. the basics are fine, but lets start really testing my understanding/theory and applicaton of concepts. |
 |         ******************************************************************************* |
 | June 17, 2026 | Dataset Filtering & Serialization | Developed an optimized data-cleansing pipeline that parses real-world enterprise arrays, applies value-based filtering algorithms, and streams structured, serialized objects to a new target JSON file. |
+ | June 18, 2026 | Algorithmic Sorting & Lambda Keys | Optimized pipeline performance by moving sorting operations out of iterative loops and utilizing Lambda evaluation functions for reverse-alphabetical data ordering. |
